@@ -1,2 +1,2 @@
 # mingi-juudikari-pmst
-3 neegrit teevad mitterassistliku m2ngu
+4 neegrit teevad mitterassistliku m2ngu
