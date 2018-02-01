@@ -10,4 +10,5 @@ while True:
         MessageBox = ctypes.windll.user32.MessageBoxW
         MessageBox(None, 'U BEEN HAXED L0L TIME FOR SHUTDOWN', 'SITT LUGU LILLEKE', 0)
         time.sleep(5)
-        os.system("shutdown /s /t 1")
+        #os.system("shutdown /s /t 1")
+        break
